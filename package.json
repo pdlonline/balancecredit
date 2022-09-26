@@ -1,0 +1,16 @@
+{
+  "name": "BalanceCredit",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Balance Credit Online Payday Loans Online No Credit Check Instant Approval",
+  "keywords": [
+    "balance credit",
+    "balancecredit",
+    "balancecredit.com"
+  ],
+  "repository": "https://github.com/pdlonline/balancecredit",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
